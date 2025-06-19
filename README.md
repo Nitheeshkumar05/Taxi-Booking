@@ -35,5 +35,3 @@ It features options for **pickup and drop locations, car type selection, add-ons
 
 ---
 
-## 📂 PROJECT STRUCTURE
-
